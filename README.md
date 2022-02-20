@@ -1,4 +1,3 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YAOiOiWTUsBKcJVrHVnCmMBU4eyfiSQPPiSBxkazURX4eBH785JvX3iDibthL7zHi38&usqp=CAU">
 <img src="https://i.postimg.cc/wvdG4fZs/logo-kombi-coffee.png">
 
 # kombi-coffee
