@@ -1,6 +1,6 @@
 <img src="https://i.postimg.cc/wvdG4fZs/logo-kombi-coffee.png">
 
-# kombi-coffee
+# Kombi Coffee
 Primeiro projeto de HTML 5
 <p> Uma página simples desenvolvida apenas utilizando HTML 5.</p>
 <p>Apliquei a ordem de importância das Tags.</p>
