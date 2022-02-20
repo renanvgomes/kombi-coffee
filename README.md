@@ -1,3 +1,4 @@
+<img src="https://www.vhv.rs/dpng/d/127-1271088_html5-course-training-content-details-dainese-vector-hd.png">
 <img src="https://i.postimg.cc/wvdG4fZs/logo-kombi-coffee.png">
 
 # kombi-coffee
