@@ -1,2 +1,7 @@
 # kombi-coffee
-Primeiro projeto de HTML, uma página simples desenvolvida apenas utilizando HTML.
+Primeiro projeto de HTML 5:
+Uma página simples desenvolvida apenas utilizando HTML 5.
+Apliquei a ordem de importância das Tags
+Aprendi sobre a estrutura de uma página HTML
+Inseri imagens incluindo atributos de acessibilidade
+Utilizei o atributo Style para personalizar a página
